@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Group Projects
+- [Generative-AI-Playground](https://github.com/TKT20007-Generative-AI-playground/gen-ai-playground) – Team-based project
+- [Citation Management Website](https://github.com/tassu60kg/outin-kanat) – Team-based project
+
+## About My Group Projects
+These are group projects completed as part of my studies at University of Helsinki.  
+I contributed as a team member; the projects are owned and maintained by the group.
+
 <!--
 **MatiasS717/MatiasS717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
