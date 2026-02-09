@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Group Projects
--(In Progress) [Generative-AI-Playground](https://github.com/TKT20007-Generative-AI-playground/gen-ai-playground) – Team-based project
+- (In Progress) [Generative-AI-Playground](https://github.com/TKT20007-Generative-AI-playground/gen-ai-playground) – Team-based project
 - [Citation Management Website](https://github.com/tassu60kg/outin-kanat) – Team-based project
 
 ## About My Group Projects
